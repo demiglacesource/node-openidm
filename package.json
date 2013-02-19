@@ -1,0 +1,22 @@
+{
+  "name": "openidm",
+  "version": "0.1.1",
+  "description": "OpenIDM REST API Client.",
+  "main": "openidm.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demiglacesource/node-openidm.git"
+  },
+  "keywords": [
+    "OpenIDM"
+  ],
+  "author": "demiglacesource",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
